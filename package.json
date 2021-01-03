@@ -1,0 +1,11 @@
+{
+  "name": "node-contact-form",
+  "version": "1.0.0",
+  "description": "Sample app for implementing Form using Nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raman",
+  "license": "MIT"
+}
